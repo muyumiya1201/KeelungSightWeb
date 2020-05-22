@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+@media screen {
+	a {
+		color: white;
+	}
+	a:hover {
+		color: white;
+	}
+	.card {
+		width: 17rem;
+		height: auto;
+		float: left;
+	}
+	img {
+		display: block;
+		width: 100%;
+		height: auto; //
+		margin: auto;
+	}
+}
